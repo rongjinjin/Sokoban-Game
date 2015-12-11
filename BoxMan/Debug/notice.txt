@@ -1,0 +1,5 @@
+map.txt是每关的地图信息，可以用记事本打开并编辑。
+
+如果你有任何建议，或者发现bug请联系我
+Email:unfirewood@etang.com
+QQ:125422950
